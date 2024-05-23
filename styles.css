@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    background-color: rgb(232 232 232);
+    height: 80px;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+body {
+    background-color: rgb(153 148 148 / 71%);
+}
+.contenido,.contenido1, .contenido2, .contenido3 {
+    background: rgb(232 232 232);
+    max-width: 800px;
+    height: 710px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+
+.titulo1, .titulo2, .titulo3, .titulo4 {
+    justify-content:space-between;
+    display: flex;
+    align-items: center;
+    height: 55px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.foto1, .foto2, .foto3, .foto4 {
+    justify-content:center;
+    display: flex;
+    align-items: center;
+    width: 800px;
+    height: 600px;
+}
+
+.pagina1, .pagina2, .pagina3, .pagina4 {
+ color: gray
+}
+.comentarios1, .comentarios2, .comentarios3, .comentarios4 {
+    text-align: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
